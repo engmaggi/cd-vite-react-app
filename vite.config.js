@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/cd-react-vite-app/',
+  base: '/cd-vite-react-app/',
   plugins: [react()],
    test: {
     globals: true,
